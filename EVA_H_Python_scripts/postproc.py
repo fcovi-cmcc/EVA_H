@@ -10,7 +10,7 @@
 
 import numpy as np
 from numpy.matlib import repmat
-from scipy.interpolate import interp2d, RectBivariateSpline
+from scipy.interpolate import RectBivariateSpline
 import scipy.io as io
 import netCDF4 as nc
 
