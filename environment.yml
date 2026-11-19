@@ -1,0 +1,15 @@
+name: evah-dps2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.16
+  - numpy=2.5.5
+  - scipy=1.18.1
+  - pandas=3.1.1
+  - openpyxl=3.1.5
+  - netcdf4=1.7.5
+  - xarray=2026.9.0
+  - matplotlib=3.11.2
+  - cmocean=4.0.3
+  - pyyaml=6.0.3
+  - pytest=9.2.0
